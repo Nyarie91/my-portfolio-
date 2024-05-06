@@ -8,3 +8,8 @@ p {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
 }
+.hero {
+  color: blue;
+  font-weight: 300;
+  background-color: blueviolet;
+}
